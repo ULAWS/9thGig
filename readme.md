@@ -1,5 +1,8 @@
 9GaG -> Cloned
 
+Stack used->
+ReactJS
+
 Things covered->
 1. Desktop UI done
 2. Themes done
